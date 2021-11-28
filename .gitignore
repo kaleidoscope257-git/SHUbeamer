@@ -1,4 +1,5 @@
 .texpadtmp/
+.gitignore
 .DS_Store
 .gitattributes
 .git/
