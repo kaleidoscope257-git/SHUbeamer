@@ -9,18 +9,18 @@
   |- figures	%图片存储文件夹
     |- SHU-blue.pdf
   |- logo	%模版中使用的背景、logo等文件
-  	|- background.pdf
-  	|- SHDX-tight-white.pdf
-  	|- SHU-white.pdf
+    |- background.pdf
+    |- SHDX-tight-white.pdf
+    |- SHU-white.pdf
   |- style	
-  	|- gbt7714-2005.bst	%符合 GB/T 7714-2005 规范的 BibTeX 样式文件
-  	|- macros.tex	%常用的
-  	|- shubeamer.sty	%主题宏包、说明文档以及主题驱动文件的混排文件
-	|- CMU Serif.ttf	%模版使用的CMU Serif字体
-	|- main.pdf	%main.tex所排版出的PDF文件
-	|- main.tex	%主题测试文档
-	|- README.md
-	|- reference.bib	%参考文献
+    |- gbt7714-2005.bst	%符合 GB/T 7714-2005 规范的 BibTeX 样式文件
+    |- macros.tex	%常用的
+    |- shubeamer.sty	%主题宏包、说明文档以及主题驱动文件的混排文件
+ |- CMU Serif.ttf	%模版使用的CMU Serif字体
+  |- main.pdf	%main.tex所排版出的PDF文件
+  |- main.tex	%主题测试文档
+  |- README.md
+  |- reference.bib	%参考文献
 ```
 
 模版主题颜色默认使用来自上大官网边栏的深蓝色(RGB={27,70,123}), 当然你也可以模版文件 `shubeamer.sty` 中将该行注释掉, 再将注释为 `SHU blue` 的一行前面的`%`去掉, 此时主题颜色将变为上大蓝. 
