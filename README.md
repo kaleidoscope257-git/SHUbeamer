@@ -16,7 +16,7 @@
     |- gbt7714-2005.bst	%符合 GB/T 7714-2005 规范的 BibTeX 样式文件
     |- macros.tex	%常用的
     |- shubeamer.sty	%主题宏包、说明文档以及主题驱动文件的混排文件
- |- CMU Serif.ttf	%模版使用的CMU Serif字体
+  |- CMU Serif.ttf	%模版使用的CMU Serif字体
   |- main.pdf	%main.tex所排版出的PDF文件
   |- main.tex	%主题测试文档
   |- README.md
